@@ -20,7 +20,7 @@ const createMinion = () => {
     salary: 40000,
   }
 }
-
+//counter
 let workIdCounter = 1;
 
 const createWork = (minionId) => {
